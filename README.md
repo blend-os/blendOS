@@ -5,6 +5,8 @@
   <i>The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.</i>
 </div>
 
+<br>
+
 This repository acts as the starting point for contributing to blendOS.
 
 ## Contributing
