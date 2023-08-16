@@ -42,3 +42,6 @@ Quoting our announcement on the blendOS Discord Server.
 > This is really essential for any future releases, hence the ping.
 >
 > Feel free to post information about any available hardware/VPSs for hosting ISOs in the ⁠#infrastructure channel, as well as any provider suggestions that offer servers for this purpose at reasonable rates, since I'll be funding it from my pocket.
+
+
+<!-- libera-verify-15208970 -->
