@@ -13,6 +13,9 @@
 
   <h1>Welcome to blendOS!</h1>
   <i>The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.</i>
+  <br>
+  <a href="https://blendos.co" rel="noopener noreferrer">Website</a> • <a href="https://docs.blendos.co" rel="nooppener noreferrer">Docs</a> • <a href="https://git.blendos.co/blendos rel="noopener noreferrer">Git Server</a>
+  </br>
 </div>
 
 <br>
