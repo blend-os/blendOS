@@ -4,7 +4,7 @@
   <a href="https://discord.gg/m9JPmZB8Kd" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/discord/1068192254365282405?logo=discord&label=discord" alt="discord"/></a>
   <a href="https://t.me/blendos" target="_blank" rel="noopener noreferrer"><img alt="Telegram" src="https://img.shields.io/badge/telegram-chat-blue?logo=telegram"></a>
   <a href="https://matrix.to/#/#blendos:matrix.org" target="_blank" rel="noopener noreferrer"><img alt="Matrix" src="https://img.shields.io/badge/matrix-chat-%230dbd8b?logo=element"></a>
-  <a href="https://rvlt.gg/pv7Zfr79" re;="noopener noreferrer"><img alt="Revolt.chat" src="https://img.shields.io/badge/revolt-chat-%23ff4654?logo=revoltdotchat"></a>
+  <a href="https://rvlt.gg/pv7Zfr79" rel="noopener noreferrer"><img alt="Revolt.chat" src="https://img.shields.io/badge/revolt-chat-%23ff4654?logo=revoltdotchat"></a>
   <a href="https://web.libera.chat/#blendos" rel="noopener noreferrer"><img alt="IRC" src="https://img.shields.io/badge/libera.chat-%23blendos-%23ff55dd?logo=liberadotchat"></a>
   <a href="https://github.com/blend-os/blendOS/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/blend-os/BlendOS"></a>
   <a href="https://github.com/blend-os/blendOS/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img alt="GitHub issues" src="https://img.shields.io/github/issues/blend-os/blendos"></a>
