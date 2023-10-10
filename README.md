@@ -8,7 +8,7 @@
   <a href="https://web.libera.chat/#blendos" rel="noopener noreferrer"><img alt="IRC" src="https://img.shields.io/badge/libera.chat-%23blendos-%23ff55dd?logo=liberadotchat"></a>
   <a href="https://github.com/blend-os/blendOS/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/blend-os/BlendOS"></a>
   <a href="https://github.com/blend-os/blendOS/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img alt="GitHub issues" src="https://img.shields.io/github/issues/blend-os/blendos"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blend-os?label=stars%20(organization-wide)">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blend-os?label=org-wide%20stars">
   <a href="https://twitter.com/blend_os" target="_blank" rel="noopener noreferrer"><img alt="X Follow" src="https://img.shields.io/badge/follow-%40blend__os-%231d9bf0?logo=x"></a>
   </br>
 
