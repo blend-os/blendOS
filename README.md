@@ -21,6 +21,8 @@
 
 This repository acts as the starting point for contributing to blendOS.
 
+This repo is now on Gitlab!
+
 ## Contributing
 
 There are a number of ways in which you can contribute to blendOS. All of blendOS's code is licensed under the GPL-3.0 license.
