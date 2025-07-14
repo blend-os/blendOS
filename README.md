@@ -21,7 +21,7 @@
 
 This repository acts as the starting point for contributing to blendOS.
 
-This repo is now on Gitlab!
+This repo is now [on Gitlab](https://git.blendos.co/blendOS/blendOS)!
 
 ## Contributing
 
