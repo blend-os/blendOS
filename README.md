@@ -31,9 +31,9 @@ Do join the blendOS Discord server, where you'll find over 750 people ready to a
 
 ### Docs
 
-The docs are hosted at docs.blendos.co, but are pretty much empty at the moment, and thus haven't been publicly announced on the blendos.co website.
+The docs are hosted at [blendos.co](https://blendos.co).
 
-You can get started with contributing to the docs by creating a pull request at https://github.com/blend-os/docs, which uses GitHub Pages and Docusaurus.
+You can get started with contributing to the docs by creating a pull request at [blendOS/Website](/blendos/website), which uses Cloudflare Pages and MkDocs.
 
 ### `blend` and `akshara`
 
