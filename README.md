@@ -6,7 +6,7 @@
   <a href="https://matrix.to/#/#blendos:matrix.org" target="_blank" rel="noopener noreferrer"><img alt="Matrix" src="https://img.shields.io/badge/matrix-chat-%230dbd8b?logo=element"></a>
   <a href="https://rvlt.gg/pv7Zfr79" rel="noopener noreferrer"><img alt="Revolt.chat" src="https://img.shields.io/badge/revolt-chat-%23ff4654?logo=revoltdotchat"></a>
   <a href="https://web.libera.chat/#blendos" rel="noopener noreferrer"><img alt="IRC" src="https://img.shields.io/badge/libera.chat-%23blendos-%23ff55dd?logo=liberadotchat"></a>
-  <a href="https://git.blendos.co/blendOS/blendOS/-/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/blend-os/BlendOS"></a>
+  <a href="https://git.blendos.co/blendOS/blendOS/-/blob/main/LICENSE"><img alt="Gitlab License" src="https://img.shields.io/gitlab/license/blendos%2Fblendos?gitlab_url=https%3A%2F%2Fgit.blendos.co"></a>
   <a href="https://git.blendos.co/blendOS/blendOS/-/issues"><img alt="GitLab issues" src="https://img.shields.io/gitlab/issues/open/blendos%2Fblendos?gitlab_url=https%3A%2F%2Fgit.blendos.co"></a>
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/blend-os/blendos">
   <a href="https://twitter.com/blend_os" target="_blank" rel="noopener noreferrer"><img alt="X Follow" src="https://img.shields.io/badge/follow-%40blend__os-%231d9bf0?logo=x"></a>
